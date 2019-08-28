@@ -1,5 +1,4 @@
 <?php
-namespace CIP;
 /**
  * Format class
  *
